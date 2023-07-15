@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fútbol Para Todos</string>
+    <string name="welcome_second">¡Bienvenidos! Por favor digite el número del canal (4 números y presione Ir al canal.</string>
+    <string name="number">Número de Canal</string>
+    <string name="futbol_para_todos">Fútbol Para Todos</string>
+    <string name="go_channels">Ir a Canales</string>
+    <string name="description">Bienvenidos a una para ver fútbol, cine y un poco más</string>
+    <string name="go_to_channel">Ir al canal</string>
+    <string name="reset">Borrar</string>
+    <string name="channel_number">Número de Canal</string>
+</resources>
